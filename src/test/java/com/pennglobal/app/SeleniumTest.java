@@ -13,7 +13,7 @@ public class SeleniumTest {
         System.out.println("BrowserAutomation");
     }
     @Test
-    public void NewBrowserAutomation() {
+    public void NewSometingBrowserAutomation() {
         System.out.println("BrowserAutomation");
     }
     @Test
