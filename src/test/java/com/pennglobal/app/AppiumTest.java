@@ -11,7 +11,15 @@ public class AppiumTest {
         System.out.println("postJira-12");
     }
     @Test
+    public void NartiveAppAndroid () {
+        System.out.println("AppAndroid");
+        System.out.println("postJira-11");
+        System.out.println("postJira-12");
+    }
+    @Test
     public void IOSApps () {
+        System.out.println("IOSApps");
+        System.out.println("IOSApps");
         System.out.println("IOSApps");
     }
 }
